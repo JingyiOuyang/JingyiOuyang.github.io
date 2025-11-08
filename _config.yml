@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/PersonPhoto.jpg"
+  avatar           : "/assets/images/PersonPhoto.jpg"
   name             : "Ouyang Jingyi"
   pronouns         : # example: "she/her"  
   bio              : "Year 1 AI student at Macao Polytechnic University"
