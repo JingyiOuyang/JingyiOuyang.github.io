@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Year 1 undergraduate student from[ Macao Polytechnic University](https://www.mpu.edu.mo),majoring Artificial Intelligence(AI)
+I am a Year 1 undergraduate student from Faculty of Applied Sciences,[ Macao Polytechnic University](https://www.mpu.edu.mo),a Bachelor of Science in Artificial Intelligence.
